@@ -1,2 +1,2 @@
-#!/bin/bash
-chmod ugo+x
+#!/bin/basln
+chmod ugo+x hello
