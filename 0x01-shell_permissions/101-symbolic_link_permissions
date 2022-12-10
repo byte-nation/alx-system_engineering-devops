@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent:staff _hello
+own -h vincent:staff _hello
